@@ -16,5 +16,5 @@ https://seuusuario.github.io/projeto-one-piece/
 Quem quiser ver o código fonte está no meu GitHub:
 https://github.com/seuusuario/projeto-one-piece
 #HTML #CSS #JavaScript #Frontend #ProjetosPessoais #OnePiece #DevLife #DesenvolvimentoWeb #DevemDobro #MentoriaDev
-2025-04-08.png
- 
+
+![2025-04-08](https://github.com/user-attachments/assets/f4df61e3-009c-45f8-a61e-a33f76f3c77f)
