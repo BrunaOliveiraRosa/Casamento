@@ -1,5 +1,5 @@
 🛠️ Projeto Pessoal - One Piece Fan Page
-Olá, comunidade do LinkedIn!
+
 
 Quero compartilhar com vocês um projeto que desenvolvi durante minha jornada de estudos com a mentoria do Dev em Dobro 💻❤️
 Utilizei HTML, CSS e JavaScript para criar uma fan page interativa sobre One Piece, onde você pode clicar nos personagens e descobrir curiosidades sobre cada um ☠️🏴‍☠️🌊
