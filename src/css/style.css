@@ -56,13 +56,13 @@ body {
     line-height: 24px;
   }
   
-  .conteudo .logo {
+  /* .conteudo .logo {
     background-image: url("../imagens/one-piece-logo.png");
     background-size: cover;
     width: 230px;
     height: 100px;
     margin-bottom: 35px;
-  }
+  } */
   
   .botoes {
     position: fixed;
